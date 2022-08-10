@@ -1,0 +1,23 @@
+body {
+    background-color:  #E9ECEF;
+}
+
+h1 {
+    color: deeppink;
+}
+
+h3 {
+    color: darkviolet;
+}
+
+h4, h6 {
+    color: orange;
+}
+
+ul {
+    display: inline-block;
+}
+
+.card {
+    border-radius: 10px;
+}
